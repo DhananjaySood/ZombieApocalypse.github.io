@@ -1,0 +1,77 @@
+#background-img {
+background-image: url(zombie.jpg);
+background-repeat:no-repeat;
+height: 50rem;
+background-size: 100% ;
+
+}
+
+.wwe-logo {
+    width: 5rem;
+   
+}
+.main-text {
+  text-align: center;
+  margin-top:3rem;
+}
+
+.za-top-text {
+   padding-top: 15rem;
+}
+
+
+.za-tag {
+    font-family: 'Special Elite', cursive;
+    color: white; 
+    font-weight: 600;
+    
+}
+.za-para-text {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.za-para-sub-text {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.za-link {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+
+.col-sm-12  {
+    background-color: red;
+    margin-top:15rem;
+   
+}
+
+.col{
+    background-color: red;  
+}
+
+.za-top-text {
+    padding :4rem;
+}
+
+.za-3h {
+    padding-top:1rem;
+}
+.wwe-logo {
+
+margin-right:17rem;
+
+}
+
+}
+
+
+
